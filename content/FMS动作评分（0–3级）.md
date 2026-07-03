@@ -1,6 +1,3 @@
-
----
-
 # 1️⃣ 深蹲 Deep Squat
 
 ![Image](https://images.openai.com/static-rsc-4/SJYLOLLEpdbGKxIvQWTO6o0IltkccrGRYDqD1ocTQ8OtDbIP3Ckqt1jd3Fz4boXOE4Ztvv3i8DowM7USetjIb9PiQkVzntZ8Nhfuh9qHEbsJmtQyPdqbn6-K3yO17G9I480P62mwFEWUDbqhPSiQsRsXBwigPXcAfDD2dmxnOehnbpkG3CBs_XrQLeQ_8qFf?purpose=fullsize)
